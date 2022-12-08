@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a24036bf.js",
+    "static/media/women3.png": "/static/media/women3.996e43d259c6ae71338b.png",
+    "static/media/1.svg": "/static/media/1.4fda28e82a4278b42eeeb1fb4d388080.svg",
+    "static/media/2.svg": "/static/media/2.fd46f32d2f916571d3272e09fe7ea53a.svg",
+    "static/media/3.svg": "/static/media/3.a5d955a96f42c5ec3c34e016ad73c563.svg",
+    "index.html": "/index.html",
+    "main.a24036bf.js.map": "/static/js/main.a24036bf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a24036bf.js"
+  ]
+}
